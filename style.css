@@ -1,0 +1,16 @@
+/*******************************
+ Sets the style for the table 
+ *******************************/
+table, th, td {
+	border: 2px solid black;
+	padding: 5px;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+td {
+	text-align: center;
+}
+
